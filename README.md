@@ -16,8 +16,6 @@ This project demonstrates a microservices architecture built using Spring Boot. 
 
 ---
 
-![3d1e070c-f6d4-4353-b250-418f4861b0c0](https://github.com/user-attachments/assets/a6b0c332-2c05-4071-b9b8-a2262f57dd23)
-
 
 ## 🧩 Architecture
 
